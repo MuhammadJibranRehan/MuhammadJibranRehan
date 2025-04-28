@@ -17,21 +17,21 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 9th Grade Student passionate about coding and tech.
-- 🌱 Currently learning **Advanced React.js** and **Next.js**.
+- 🌱 Currently learning **Advanced Python** and In future I'll learn **Agentic AI**.
 - 👯 Looking to collaborate on **Front-End Open Source Projects**.
-- 📫 Reach me at **your.email@example.com** (update this!)
+- 📫 Reach me at **muhammadjibranrehan28@gmail.com**
 - ⚡ Fun fact: **I love building modern websites and apps!**
 
 ---
 
 ## 🚀 Technologies I know
 
-- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Languages**: HTML, CSS, JavaScript, TypeScript, Python
 - **Frameworks**: React.js, Next.js
 - **Styling**: Tailwind CSS, Bootstrap
 - **Version Control**: Git, GitHub
 - **CMS**: Sanity CMS
-- **Deployment**: Vercel, Netlify
+- **Deployment**: Vercel, Netlify, Firebase
 - **Design**: Figma, Canva
 
 <br/>
