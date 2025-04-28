@@ -15,7 +15,7 @@
 
 ## 🐍 Snake Animation
 
-![Snake animation](https://github.com/MuhammadJibranRehan/MuhammadJibranRehan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/MuhammadJibranRehan/MuhammadJibranRehan/blob/output/github-contribution-grid-snake.svg (https://github.com/MuhammadJibranRehan/MuhammadJibranRehan/blob/main/snake.yml))
 
 <br/>
 
